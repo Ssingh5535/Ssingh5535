@@ -1,16 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
+<h1 align="center">Hello 👋, I'm Stephen Singh</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/stephensingh/">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Stephen%20Singh&description=FPGA%20Engineered%20and%20ML%20Enthusiast%20specializing%20in%20SoC%20design%2C%20Hardware-Security%20and%20High-Performance%20Computing.&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=stephensingh&linkedin=stephensingh&github=stephensingh" alt="Stephen Singh's Card" />
-  </a>
+  <img width="100%" src="/Images/Bento.png" alt="Bento Card" />
 </div>
 
-<h1 align="center">Hello 👋, I'm Stephen Singh</h1>
-
+---
 <p align="center">
-  FPGA Engineer | AI/ML & VLSI Enthusiast  
+ Aspiring FPGA Engineer | AI/ML & VLSI Enthusiast  
 </p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Digital+Logic+Designer;SoC+Architect;Machine+Learning+on+Hardware;Hardware+Security;Embedded+Systems;" alt="Typing SVG" />
@@ -18,11 +17,21 @@
 
 ---
 
-## 🌐 Connect with Me
 
-|                                                                            LinkedIn                                                                            |                                                                        GitHub                                                                       |                                                                         Twitter                                                                         |                                                                    Email                                                                   |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?\&style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/stephensingh) | [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?\&style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/stephensingh) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?\&style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/stephensingh) | [![Email](https://img.shields.io/badge/Email-D14836?\&style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:stephen.singh@example.com) |
+
+<div align="center">
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>Discover my work and connect on these platforms!</p>
+
+ | Stephen Singh | GitHub | Instagram | LinkedIn | 
+| --- | --- | --- | --- | 
+| [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](Resume/StephenSinghResume.pdf) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/knightgamer87/) | [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/stephen-singh-ss5535/) | 
+
+| Twitch | Twitter | Reddit | Discord | GitHub |
+| --- | --- | --- | --- | --- |
+| [![knightgamer2910](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square)](https://twitch.tv/knightgamer2910) | [![KenanGain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square)](https://x.com/gain_kenan) | [![Automated_Artistry](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square)](https://www.reddit.com/user/Automated_Artistry) | [![Knight Gamer](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)](https://discord.gg/YdDyV6QqEN) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square)](https://github.com/KenanGain) |
+
 
 ---
 
