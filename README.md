@@ -24,13 +24,11 @@
   <h2>🌐 Connect with Me</h2>
   <p>Discover my work and connect on these platforms!</p>
 
- | Stephen Singh | GitHub | Instagram | LinkedIn | 
-| --- | --- | --- | --- | 
-| [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](Resume/StephenSinghResume.pdf) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/knightgamer87/) | [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/stephen-singh-ss5535/) | 
-
-| Twitch | Twitter | Reddit | Discord | GitHub |
+ | Stephen Singh | GitHub | Instagram | LinkedIn | Discord |
 | --- | --- | --- | --- | --- |
-| [![knightgamer2910](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square)](https://twitch.tv/knightgamer2910) | [![KenanGain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square)](https://x.com/gain_kenan) | [![Automated_Artistry](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square)](https://www.reddit.com/user/Automated_Artistry) | [![Knight Gamer](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)](https://discord.gg/YdDyV6QqEN) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square)](https://github.com/KenanGain) |
+| [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Stephen+Singh&size=square)](Resume/StephenSinghResume.pdf) | [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%Ssingh5535&subtitle=Ssingh5535&size=square)](https://github.com/Ssingh5535) | [![Stephen Sngh](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@stephen21_21&size=square)](https://www.instagram.com/stephen21_21/) | [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Stephen-Singh-ss5535&size=square)](https://www.linkedin.com/in/stephen-singh-ss5535/) | [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Batman5535&size=square)](https://discord.gg/fX8WQy8cxv)|
+
+
 
 
 ---
@@ -69,7 +67,7 @@ I’m Stephen Singh—a passionate FPGA engineer with a knack for translating co
 
 ## 🔧 Tech Stack
 
-**Hardware & RTL:** Verilog, SystemVerilog, VHDL, Vivado, Vitis HLS
+**Hardware & RTL:** Verilog, SystemVerilog, VHDL, Vivado, Vitis HLS, ModelSim, Quartus, Cadence Virtuoso
 
 **Protocols & Interfaces:** AXI, SPI, I²C, UART
 
@@ -81,7 +79,7 @@ I’m Stephen Singh—a passionate FPGA engineer with a knack for translating co
 
 ## 📫 How to Reach Me
 
-* Email: [stephen.singh@example.com](mailto:stephen.singh@example.com)
+* Email: [stephensingh953@gmail.com](mailto:stephensingh953@gmail.com)
 * LinkedIn: linkedin.com/in/stephensingh
 * GitHub: github.com/stephensingh
 
