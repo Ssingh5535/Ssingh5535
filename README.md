@@ -35,7 +35,7 @@
 
 ## 🚀 About Me 🚀
 
-I’m Stephen Singh—a passionate FPGA engineer with a knack for translating complex algorithms into optimized hardware. I hold a B.E. in Electrical & Electronics Engineering from UGA and an M.S. in ECE from UF. I architect high-performance SoC solutions, integrate AI/ML on FPGA fabrics, and drive hardware-security research.
+I’m Stephen Singh—a passionate FPGA engineer with a knack for translating complex algorithms into optimized hardware. I hold a M.S. in ECE from UF and a B.S. in Electrical & Electronics Engineering from UGA. I architect high-performance SoC solutions, integrate AI/ML on FPGA fabrics, and drive hardware-security research.
 
 ### 🌱 Out & About 🌱
 When I’m not soldering boards or writing RTL, you’ll find me chasing mountain trails with a heavy pack, diving into colorful coral reefs, or carving fresh powder down snow-covered mountains. I’m passionate about pushing my limits in fitness—powerlifting, trail running, and cycling through scenic routes keep me energized.
