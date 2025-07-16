@@ -90,7 +90,7 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
 
 
 
-<h2 align="center">📫 Let's Connect!</h2>
+<h2 align="center">📫 How to Reach me!</h2>
 
 <table align="center">
   <thead>
