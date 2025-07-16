@@ -83,8 +83,6 @@ I’m Stephen Singh—a passionate FPGA engineer with a knack for translating co
 * LinkedIn: linkedin.com/in/stephen-singh-ss5535
 * GitHub: github.com/stephensingh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
-
 ###
 
 <picture>
@@ -93,4 +91,8 @@ I’m Stephen Singh—a passionate FPGA engineer with a knack for translating co
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ssingh5535/Ssingh5535/output/pacman-contribution-graph.svg">
 </picture>
 
-####
+###
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
+
