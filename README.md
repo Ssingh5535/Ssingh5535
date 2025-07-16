@@ -45,7 +45,7 @@ My love for automobiles drives me to car shows and meets, where I admire everyth
 
 ## 🍳 In the Kitchen 🍳
 
-I’m an avid home chef who love experimenting with global cuisines and fusion flavors. From slow-simmered stews to delicate pastries, I dive into recipes with creativity and precision, crafting dishes that blend comfort and innovation.
+I’m an avid home chef who love experimenting with global cuisines and fusion flavors. From slow-simmered stews to mouth-watering Salmon, I dive into recipes with creativity and precision, crafting dishes that blend comfort and creativity!
 
 
 ---
@@ -75,16 +75,14 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
 </p>
 
 ---
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
-## 🔧 Tech Stack
 
-**Hardware & RTL:** Verilog, SystemVerilog, VHDL, Vivado, Vitis HLS, ModelSim, Quartus, Cadence Virtuoso
+**Hardware‐Design & EDA Toolchain:** Verilog, SystemVerilog, VHDL, Vivado, Vitis HLS, ModelSim, Quartus, Cadence Virtuoso
 
-**Protocols & Interfaces:** AXI, SPI, I²C, UART
+**Protocols & Interfaces:** AXI4/AXI, SPI, I²C, UART
 
-**AI/ML & Tools:** Python, TensorFlow, PyTorch, scikit-learn
-
-**Embedded & SoC:** PYNQ, Zynq, ARM, Linux
+**Embedded & SoC:** PYNQ, Zynq, ARM, Linux, RISC-V
 
 ---
 
