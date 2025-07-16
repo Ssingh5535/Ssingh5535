@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 🚀
 
 I’m Stephen Singh—a passionate FPGA engineer with a knack for translating complex algorithms into optimized hardware. I hold a B.E. in Electrical & Electronics Engineering from UGA and an M.S. in ECE from UF. I architect high-performance SoC solutions, integrate AI/ML on FPGA fabrics, and drive hardware-security research.
 
@@ -78,11 +78,13 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
 
-**Hardware‐Design & EDA Toolchain:** Verilog, SystemVerilog, VHDL, Vivado, Vitis HLS, ModelSim, Quartus, Cadence Virtuoso
+Hardware‐Design & EDA Toolchain: Verilog, SystemVerilog, VHDL, Vivado, Vitis HLS, ModelSim, Quartus, Cadence Virtuoso
 
-**Protocols & Interfaces:** AXI4/AXI, SPI, I²C, UART
+Protocols & Interfaces: AXI4/AXI, SPI, I²C, UART
 
-**Embedded & SoC:** PYNQ, Zynq, ARM, Linux, RISC-V
+Embedded & SoC: PYNQ, Zynq, ARM, Linux, RISC-V
+
+
 
 ---
 
@@ -208,10 +210,6 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
         </td>
         <td align="center" style="border: none;">
           <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="50" height="50" alt="Adobe After Effects"/><br>Adobe After Effects
-        </td>
-        <!-- DaVinci Resolve icon from Wikipedia -->
-        <td align="center" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="50" height="50" alt="DaVinci Resolve"/><br>DaVinci Resolve
         </td>
       </tr>
     </tbody>
