@@ -52,27 +52,70 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephensingh&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ssingh5535&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ssingh5535&theme=highcontrast&hide_border=true">
+
+
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssingh5535&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ssingh5535&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+
+  </tr>
+</table>
+
 
 ---
 
-## 🏆 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephensingh&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
-## 💼 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/stephensingh/riscv-pipeline"><img src="https://img.shields.io/badge/-RISC--V%20Pipeline-05122A?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/stephensingh/aes-hw"><img src="https://img.shields.io/badge/-AES%20Crypto%20Core-05122A?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/stephensingh/ml-trojan-detect"><img src="https://img.shields.io/badge/-HW%20Trojan%20Detection-05122A?style=for-the-badge&logo=github" /></a>
-</p>
+### Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/KenanGain/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=SOC_FPGA_Car&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=FPGA_Pong&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/KenanGain/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=AES128_FPGA&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KenanGain/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=RISCV_5Stage&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/KenanGain/SmolLM">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=FPGA_OV7670_HDMI&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KenanGain/Llama-3.2_running_locally">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=5stagemips&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
@@ -265,3 +308,8 @@ Embedded & SoC: PYNQ, Zynq, ARM, Linux, RISC-V
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ssingh5535&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ssingh5535&theme=highcontrast&hide_border=true">
