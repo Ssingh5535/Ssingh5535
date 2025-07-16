@@ -77,11 +77,42 @@ I’m Stephen Singh—a passionate FPGA engineer with a knack for translating co
 
 ---
 
-## 📫 How to Reach Me
 
-* Email: [stephensingh953@gmail.com](mailto:stephensingh953@gmail.com)
-* LinkedIn: linkedin.com/in/stephen-singh-ss5535
-* GitHub: github.com/Ssingh5535
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Email</th>
+      <th>Phone (US)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="mailto:stephensingh953@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
+          <br>
+          stephensingh953@gmail.com
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://wa.me/14049329019" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp USA" style="width: 80px; margin: 10px;">
+          <br>
+          +1-404-932-9019
+        </a>
+      </td>
+  </tbody>
+</table>
+
+<br>
+
+<h3>
+<div align="center">
+
+⭐️ From [Stephen Singh](https://github.com/Ssingh5535) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 ###
 
