@@ -37,6 +37,17 @@
 
 I’m Stephen Singh—a passionate FPGA engineer with a knack for translating complex algorithms into optimized hardware. I hold a B.E. in Electrical & Electronics Engineering from UGA and an M.S. in ECE from UF. I architect high-performance SoC solutions, integrate AI/ML on FPGA fabrics, and drive hardware-security research.
 
+## 🌱 Out and about 🌱
+When I’m not soldering boards or writing RTL, you’ll find me chasing mountain trails with a heavy pack, diving into colorful coral reefs, or carving fresh powder down snow-covered mountains. I’m passionate about pushing my limits in fitness—powerlifting, trail running, and cycling through scenic routes keep me energized.
+
+## 🏎️ Car Scene 🏎️
+My love for automobiles drives me to car shows and meets, where I admire everything from vintage classics to the latest performance exotics. Behind the camera, I’m a landscape photographer at heart, chasing golden-hour light across dramatic vistas and capturing nature’s intricate details.
+
+## 🍳 In the Kitchen 🍳
+
+I’m an avid home chef who love experimenting with global cuisines and fusion flavors. From slow-simmered stews to delicate pastries, I dive into recipes with creativity and precision, crafting dishes that blend comfort and innovation.
+
+
 ---
 
 ## 📊 GitHub Stats
