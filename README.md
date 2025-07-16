@@ -307,9 +307,3 @@ Embedded & SoC: PYNQ, Zynq, ARM, Linux, RISC-V
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ssingh5535&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ssingh5535&theme=highcontrast&hide_border=true">
