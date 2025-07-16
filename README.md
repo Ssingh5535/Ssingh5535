@@ -37,7 +37,7 @@
 
 I’m Stephen Singh—a passionate FPGA engineer with a knack for translating complex algorithms into optimized hardware. I hold a B.E. in Electrical & Electronics Engineering from UGA and an M.S. in ECE from UF. I architect high-performance SoC solutions, integrate AI/ML on FPGA fabrics, and drive hardware-security research.
 
-## 🌱 Out and about 🌱
+## 🌱 Out & About 🌱
 When I’m not soldering boards or writing RTL, you’ll find me chasing mountain trails with a heavy pack, diving into colorful coral reefs, or carving fresh powder down snow-covered mountains. I’m passionate about pushing my limits in fitness—powerlifting, trail running, and cycling through scenic routes keep me energized.
 
 ## 🏎️ Car Scene 🏎️
@@ -88,6 +88,105 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
 
 ---
 
+<h3 align="center">AI/ML & Data Science</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
+      </td>
+      <td align="center" style="border: none;">
+<!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
+      </td>
+    </tr>
+  </tbody>
+ </table>
+</div>
+
+
+
+<h3 align="center"> AI Tools & Prompt Engineering</h3>
+<div align="center">
+ <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;">AI Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
+      </td>
+      <td align="center" style="border: none;">
+<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center"> Video Editing</h3>
+
+
+
+
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <!-- Update colspan to 4 if you're adding a fourth column -->
+        <th colspan="4" align="center" style="color: white;">Video Editing Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" height="50" alt="Adobe Photoshop"/><br>Adobe Photoshop
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="50" height="50" alt="Adobe Premiere Pro"/><br>Adobe Premiere Pro
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="50" height="50" alt="Adobe After Effects"/><br>Adobe After Effects
+        </td>
+        <!-- DaVinci Resolve icon from Wikipedia -->
+        <td align="center" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="50" height="50" alt="DaVinci Resolve"/><br>DaVinci Resolve
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 <h2 align="center">📫 How to Reach me!</h2>
