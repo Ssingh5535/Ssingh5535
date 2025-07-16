@@ -1,60 +1,79 @@
-## Hey, [Stephen here!]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/stephensingh/">
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Stephen%20Singh&description=FPGA%20Engineered%20and%20ML%20Enthusiast%20specializing%20in%20SoC%20design%2C%20Hardware-Security%20and%20High-Performance%20Computing.&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=stephensingh&linkedin=stephensingh&github=stephensingh" alt="Stephen Singh's Card" />
+  </a>
+</div>
 
-<img src = "https://giphy.com/gifs/Plus500-tech-apple-big-ek0rLx8BpbLjWhIrGF" alt = 'Awesome Matrix Code' align='right'/>
+<h1 align="center">Hello 👋, I'm Stephen Singh</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+<p align="center">
+  FPGA Engineer | AI/ML & VLSI Enthusiast  
+</p>
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Digital+Logic+Designer;SoC+Architect;Machine+Learning+on+Hardware;Hardware+Security;Embedded+Systems;" alt="Typing SVG" />
+</p>
 
-## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+---
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+## 🌐 Connect with Me
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
- 
- ## Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
- 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-		current_work = 'Writing code'
-		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Vancouver_Canada()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
- 
-## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+|                                                                            LinkedIn                                                                            |                                                                        GitHub                                                                       |                                                                         Twitter                                                                         |                                                                    Email                                                                   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?\&style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/stephensingh) | [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?\&style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/stephensingh) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?\&style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/stephensingh) | [![Email](https://img.shields.io/badge/Email-D14836?\&style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:stephen.singh@example.com) |
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
- 
- 
+---
+
+## 🚀 About Me
+
+I’m Stephen Singh—a passionate FPGA engineer with a knack for translating complex algorithms into optimized hardware. I hold a B.E. in Electrical & Electronics Engineering from UGA and an M.S. in ECE from UF. I architect high-performance SoC solutions, integrate AI/ML on FPGA fabrics, and drive hardware-security research.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stephensingh&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🏆 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephensingh&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/stephensingh/riscv-pipeline"><img src="https://img.shields.io/badge/-RISC--V%20Pipeline-05122A?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/stephensingh/aes-hw"><img src="https://img.shields.io/badge/-AES%20Crypto%20Core-05122A?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/stephensingh/ml-trojan-detect"><img src="https://img.shields.io/badge/-HW%20Trojan%20Detection-05122A?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+## 🔧 Tech Stack
+
+**Hardware & RTL:** Verilog, SystemVerilog, VHDL, Vivado, Vitis HLS
+
+**Protocols & Interfaces:** AXI, SPI, I²C, UART
+
+**AI/ML & Tools:** Python, TensorFlow, PyTorch, scikit-learn
+
+**Embedded & SoC:** PYNQ, Zynq, ARM, Linux
+
+---
+
+## 📫 How to Reach Me
+
+* Email: [stephen.singh@example.com](mailto:stephen.singh@example.com)
+* LinkedIn: linkedin.com/in/stephensingh
+* GitHub: github.com/stephensingh
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
