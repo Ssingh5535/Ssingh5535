@@ -81,7 +81,7 @@ I’m Stephen Singh—a passionate FPGA engineer with a knack for translating co
 
 * Email: [stephensingh953@gmail.com](mailto:stephensingh953@gmail.com)
 * LinkedIn: linkedin.com/in/stephen-singh-ss5535
-* GitHub: github.com/stephensingh
+* GitHub: github.com/Ssingh5535
 
 ###
 
