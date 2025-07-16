@@ -80,36 +80,36 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
   <table>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
+        <a href="https://github.com/Ssingh5535/SOC_FPGA_Car">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=SOC_FPGA_Car&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
+        <a href="https://github.com/Ssingh5535/FPGA_Pong">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=FPGA_Pong&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
+        <a href="https://github.com/Ssingh5535/AES128_FPGA">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=AES128_FPGA&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
+        <a href="https://github.com/Ssingh5535/RISCV_5Stage">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=RISCV_5Stage&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/SmolLM">
+        <a href="https://github.com/Ssingh5535/FPGA_OV7670_HDMI">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=FPGA_OV7670_HDMI&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/Llama-3.2_running_locally">
+        <a href="https://github.com/Ssingh5535/5stagemips">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ssingh5535&repo=5stagemips&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
