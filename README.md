@@ -91,7 +91,7 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
+      <th colspan="7" align="center" style="color: white;">Languages & Libraries</th>
     </tr>
   </thead>
   <tbody>
@@ -106,12 +106,17 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
         <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
       </td>
       <td align="center" style="border: none;">
-<!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
         <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
       </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50" alt="C++"/><br>C++
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50" alt="C"/><br>C
+      </td>   
     </tr>
   </tbody>
  </table>
@@ -136,7 +141,6 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
       </td>
       <td align="center" style="border: none;">
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
         <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
       </td>
       <td align="center" style="border: none;">
@@ -147,11 +151,39 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
       </td>
       <td align="center" style="border: none;">
         <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
+      </td>   
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
       </td>
     </tr>
   </tbody>
 </table>
 </div>
+
+
+
+
 
 <h3 align="center"> Video Editing</h3>
 
