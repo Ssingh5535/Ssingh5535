@@ -80,7 +80,17 @@ I’m Stephen Singh—a passionate FPGA engineer with a knack for translating co
 ## 📫 How to Reach Me
 
 * Email: [stephensingh953@gmail.com](mailto:stephensingh953@gmail.com)
-* LinkedIn: linkedin.com/in/stephensingh
+* LinkedIn: linkedin.com/in/stephen-singh-ss5535
 * GitHub: github.com/stephensingh
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ssingh5535/Ssingh5535/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ssingh5535/Ssingh5535/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ssingh5535/Ssingh5535/output/pacman-contribution-graph.svg">
+</picture>
+
+###
