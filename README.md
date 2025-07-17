@@ -52,24 +52,7 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ssingh5535&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ssingh5535&theme=highcontrast&hide_border=true">
-
-
-<br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssingh5535&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ssingh5535&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-
-  </tr>
-</table>
 
 
 ---
