@@ -31,9 +31,9 @@
 | [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Stephen+Singh&size=square)](Resume/StephenSinghResume.pdf) | [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%Ssingh5535&subtitle=Ssingh5535&size=square)](https://github.com/Ssingh5535) | [![Stephen Sngh](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@stephen21_21&size=square)](https://www.instagram.com/stephen21_21/) | [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Stephen-Singh-ss5535&size=square)](https://www.linkedin.com/in/stephen-singh-ss5535/) | [![Stephen Singh](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Batman5535&size=square)](https://discord.gg/fX8WQy8cxv)|
 
 
-
-
 ---
+
+
 
 ## 🚀 About Me 🚀
 
@@ -72,6 +72,8 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
 
   </tr>
 </table>
+
+
 
 
 ---
@@ -119,7 +121,12 @@ I’m an avid home chef who love experimenting with global cuisines and fusion f
   </table>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ssingh5535&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="100" height="20">
+</p>
+
 ---
+
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
 
@@ -204,6 +211,7 @@ Embedded & SoC: PYNQ, Zynq, ARM, Linux, RISC-V
 </table>
 </div>
 
+<h3 align="center">Cloud Computing & DevOps</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -229,6 +237,26 @@ Embedded & SoC: PYNQ, Zynq, ARM, Linux, RISC-V
 </div>
 
 
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
 
