@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-<h1 align="center">Hey there 👋 I'm Stephen Singh</h1>
+<h1 align="center">Hey 👋 I'm Stephen Singh</h1>
 <div align="center">
     <a href="https://bento.me/ssingh5535" target="_blank">
       <img width="100%" src="/Images/Bento.png" alt="Bento Card" />
